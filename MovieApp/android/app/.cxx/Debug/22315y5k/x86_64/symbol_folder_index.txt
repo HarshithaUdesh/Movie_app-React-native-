@@ -1,0 +1,1 @@
+/Users/tecqnio/Desktop/Movie_app-React-native-/MovieApp/android/app/build/intermediates/cxx/Debug/22315y5k/obj/x86_64

@@ -1,0 +1,1 @@
+/Users/tecqnio/Desktop/Movie_app-React-native-/MovieApp/android/app/build/intermediates/cxx/RelWithDebInfo/5u42186n/obj/arm64-v8a

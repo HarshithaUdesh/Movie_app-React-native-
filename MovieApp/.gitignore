@@ -1,0 +1,28 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore cache files
+npm-debug.log
+yarn-error.log
+package-lock.json
+.pnpm-debug.log
+
+# Ignore build files
+dist/
+build/
+out/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Ignore Ionic & Angular generated files
+www/
+coverage/
